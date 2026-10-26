@@ -1,0 +1,14 @@
+{
+  "id": "balanced-materials",
+  "name": "Balanced Materials",
+  "author": "jollyname",
+  "version": "1.0.0",
+  "description": "Makes materials' hardness more fair\nEvery player needs the mod",
+  "thumbnail": "Thumbnail.png",
+  "images": [],
+  "ai": "ai-free",
+  "development": "inactive",
+  "tags": [
+    "balance"
+  ]
+}
