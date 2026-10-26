@@ -1,9 +1,6 @@
 ﻿using MelonLoader;
 using Ships.Interface.Values;
 
-[assembly: MelonInfo(typeof(BalancedMaterials.BalancedMaterials), BalancedMaterials.BuildInfo.Name, BalancedMaterials.BuildInfo.Version, BalancedMaterials.BuildInfo.Author, BalancedMaterials.BuildInfo.DownloadLink)]
-[assembly: MelonGame(null, null)]
-
 namespace BalancedMaterials
 {
     public static class BuildInfo
